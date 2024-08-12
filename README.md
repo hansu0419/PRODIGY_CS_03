@@ -40,4 +40,7 @@ $ python app.py
 After running the above command, open the program by clicking [here](http://127.0.0.1:9090/).
 
 ## DEMO
-
+<p align="center">
+  <img src="![PRODIGY_CS_03_password_demo](https://github.com/user-attachments/assets/73142c8b-1538-4fc0-892f-ee357014d76c)
+" alt="PRODIGY_CS_03_password_demo" />
+</p>
