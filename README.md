@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ddf8ad93-5525-4c55-a395-7cca07dfda9f" alt="PRODIGY_CS_03_password" />
 </p>
+
 ## Description
 The Password Complexity Checker is a Python-based application designed to determine the complexity of a password. Users can input a password to perform compelxity checker. This tool uses zxcvbn, which is a password strength estimation library. This helps determine the time it takes for a hacker to get access. This tool also provides suggestions on how to improve the password's complexity to be less susceptible to perpetrators.
 
@@ -41,6 +42,5 @@ After running the above command, open the program by clicking [here](http://127.
 
 ## DEMO
 <p align="center">
-  <img src="![PRODIGY_CS_03_password_demo](https://github.com/user-attachments/assets/73142c8b-1538-4fc0-892f-ee357014d76c)
-" alt="PRODIGY_CS_03_password_demo" />
+  <img src="https://github.com/user-attachments/assets/73142c8b-1538-4fc0-892f-ee357014d76c" alt="PRODIGY_CS_03_password_demo" />
 </p>
